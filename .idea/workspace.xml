@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7798e0e-de4c-4c44-94b5-ea1b47bccae7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/1.3-Java Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/src/s1_t3_l1_ex1/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/src/s1_t3_l1_ex1/S1_T3_L1_Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/src/s1_t3_l1_ex2/S1_T3_L1_Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/src/s1_t3_l1_ex3/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level1/src/s1_t3_l1_ex3/S1_T3_L1_Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/S1_T3_Level2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/src/s1_t3_l2_ex1/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S1_T3_Level2/src/s1_t3_l2_ex1/S1_T3_L2_Ex1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/S1_T3_Level2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="35xpCSYTHeHrLDEq9HgN4c1W1cZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.S1_T3_L1_Ex1.executor": "Run",
+    "Application.S1_T3_L1_Ex2.executor": "Run",
+    "Application.S1_T3_L1_Ex3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/fcant/IdeaProjects/1.3-Java Collections",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fcant\IdeaProjects\1.3-Java Collections" />
+      <recent name="C:\Users\fcant\IdeaProjects\1.3-Java Collections\src\s1_t3_l1_ex3" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7798e0e-de4c-4c44-94b5-ea1b47bccae7" name="Changes" comment="" />
+      <created>1764061451547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764061451547</updated>
+    </task>
+    <servers />
+  </component>
+</project>

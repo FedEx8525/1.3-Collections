@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-public class S1_T3_L1_Ex1 {
+public class s1_t3_l1_ex1 {
 
     public static void main(String[] args) {
 

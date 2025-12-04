@@ -104,8 +104,7 @@ public class S1_T3_L2_Ex1 {
         String answer = "";
 
         for(Restaurant restaurant : restaurantsList) {
-            answer = restaurant.toString();
-            System.out.println(answer);
+            answer += restaurant.toString() + "\n";
         }
 
         return answer;

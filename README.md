@@ -89,7 +89,7 @@ This exercise demonstrates a fundamental skill in Java: defining complex, multi-
 * IntelliJ
 
 ## 🛠️Installation
-Clone this repository : -> [git clone]https://github.com/FedEx8525/1.3-Collections
+Clone this repository : -> [git clone](https://github.com/FedEx8525/1.3-Collections)
 
 ## ▶️Execution 
 * Run the program in IntelliJ
